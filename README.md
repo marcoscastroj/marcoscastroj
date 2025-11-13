@@ -37,11 +37,6 @@
 
 ---
 
-## 🧠 Linguagens
-Java | Python | JavaScript | TypeScript  
-
----
-
 ## 📊 Minhas métricas do GitHub
 
 <div align="center">
