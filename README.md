@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marcos Aurelio  
 
-<!--
-**marcoscastroj/marcoscastroj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **QA Engineer** & **Software Developer**  
+🎓 Formando em **Sistemas de Informação** pela **Unifacisa**  
+💡 Apaixonado por qualidade, automação de testes e desenvolvimento full stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Quality Assurance Stack
+🔹 **Test Automation:** Selenium | Cypress | Rest Assured | Karate  
+🔹 **Performance Testing:** K6 | JMeter  
+🔹 **CI/CD:** Jenkins | GitLab CI | Docker  
+🔹 **Relatórios:** Allure | HTML Reports  
+
+---
+
+## 💻 Development Stack
+🔹 **Backend:** Spring Boot | Django | Express.js | NestJS | FastAPI  
+🔹 **Frontend:** React | Angular  
+🔹 **Databases:** PostgreSQL | MongoDB  
+🔹 **Arquitetura:** REST APIs | Microservices | Clean Architecture  
+
+---
+
+## 🧠 Linguagens
+🟩 Java | 🐍 Python | 🟨 JavaScript | 🟦 TypeScript  
+
+---
+
+## 📊 Minhas métricas do GitHub
+
+<div align="center">
+  
+![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAurelio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAurelio&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosAurelio&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🧩 Sobre mim
+💬 Gosto de explorar diferentes tecnologias, construir soluções completas e garantir que cada entrega tenha **qualidade e performance**.  
+🚀 Atualmente, busco aprimorar minhas habilidades como **Full Stack Developer** e evoluir na área de **Test Automation e DevOps**.  
+
+---
+
+📫 **Contato:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
