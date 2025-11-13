@@ -31,9 +31,9 @@
 
 <div align="center">
   
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAurelio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoscastroj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAurelio&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscastroj&layout=compact&theme=radical)
 
 </div>
 
