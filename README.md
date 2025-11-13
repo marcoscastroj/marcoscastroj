@@ -33,9 +33,7 @@
   
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAurelio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAurelio&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosAurelio&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAurelio&layout=compact&theme=radical)
 
 </div>
 
