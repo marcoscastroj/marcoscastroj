@@ -25,7 +25,6 @@ Apaixonado por qualidade, automação de testes e desenvolvimento full stack.
 🔹 **Test Automation:** Selenium | Cypress | Rest Assured | Karate  
 🔹 **Performance Testing:** K6 | JMeter  
 🔹 **CI/CD:** Jenkins | GitLab CI | Docker  
-🔹 **Relatórios:** Allure | HTML Reports  
 
 ---
 
