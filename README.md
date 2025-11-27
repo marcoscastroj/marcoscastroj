@@ -40,15 +40,6 @@ Apaixonado por qualidade, automação de testes e desenvolvimento full stack.
 ## Minhas métricas do GitHub
 
 <div align="center">
-  
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoscastroj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscastroj&layout=compact&theme=radical)
-
-</div>
-
-
-<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=marcoscastroj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
     height="170"
