@@ -15,13 +15,13 @@
 
 ---
 
-🎯 **QA Engineer** & **Software Developer**  
-🎓 Formando em **Sistemas de Informação** pela **Unifacisa**  
-💡 Apaixonado por qualidade, automação de testes e desenvolvimento full stack.
+**QA Engineer** & **Software Developer**  
+Formando em **Sistemas de Informação** pela **Unifacisa**  
+Apaixonado por qualidade, automação de testes e desenvolvimento full stack.
 
 ---
 
-## 🧪 Quality Assurance Stack
+## Quality Assurance Stack
 🔹 **Test Automation:** Selenium | Cypress | Rest Assured | Karate  
 🔹 **Performance Testing:** K6 | JMeter  
 🔹 **CI/CD:** Jenkins | GitLab CI | Docker  
@@ -29,7 +29,7 @@
 
 ---
 
-## 💻 Development Stack
+## Development Stack
 🔹 **Backend:** Spring Boot | Django | Express.js | NestJS | FastAPI  
 🔹 **Frontend:** React | Angular  
 🔹 **Databases:** PostgreSQL | MongoDB  
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 Minhas métricas do GitHub
+## Minhas métricas do GitHub
 
 <div align="center">
   
@@ -49,13 +49,13 @@
 
 ---
 
-## 🧩 Sobre mim
-💬 Gosto de explorar diferentes tecnologias, construir soluções completas e garantir que cada entrega tenha **qualidade e performance**.  
-🚀 Atualmente, busco aprimorar minhas habilidades como **Full Stack Developer** e evoluir na área de **Test Automation e DevOps**.  
+## Sobre mim
+- Gosto de explorar diferentes tecnologias, construir soluções completas e garantir que cada entrega tenha **qualidade e performance**.  
+- Atualmente, busco aprimorar minhas habilidades como **Full Stack Developer** e evoluir na área de **Test Automation e DevOps**.  
 
 ---
 
-📫 **Contato:**  
+**Contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/marcos-castro-26007b235/))  
 
 ---
