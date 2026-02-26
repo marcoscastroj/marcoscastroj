@@ -16,7 +16,6 @@
 
 **QA Engineer** & **Software Developer**  
 Formando em **Sistemas de Informação** pela **Unifacisa**  
-Apaixonado por qualidade, automação de testes e desenvolvimento full stack.
 
 ---
 
@@ -32,21 +31,6 @@ Apaixonado por qualidade, automação de testes e desenvolvimento full stack.
 🔹 **Frontend:** React | Angular  
 🔹 **Databases:** PostgreSQL | MongoDB  
 🔹 **Arquitetura:** REST APIs | Microservices | Clean Architecture  
-
----
-
-## Minhas métricas do GitHub
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=marcoscastroj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscastroj&layout=compact&theme=radical&hide_border=true"
-    height="170"
-  />
-</div>
 
 ---
 
