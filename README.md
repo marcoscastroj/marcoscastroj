@@ -26,7 +26,7 @@ Formando em **Sistemas de Informação** pela **Unifacisa**
 ---
 
 ## Development Stack
-🔹 **Backend:** Spring Boot | Django | Express.js | FastAPI  
+🔹 **Backend:** Spring Boot | Express.js | FastAPI  
 🔹 **Frontend:** React | Angular  
 🔹 **Databases:** PostgreSQL | MongoDB  
 🔹 **Arquitetura:** REST APIs | Microservices | Clean Architecture  
