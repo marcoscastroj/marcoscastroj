@@ -13,8 +13,9 @@
 
 ---
 
-**QA Engineer** & **Software Developer**  
-Formando em **Sistemas de Informação** pela **Unifacisa**  
+**QA Engineer** & **Software Engineer**  
+Bacharel em **Sistemas de Informação** pela **Unifacisa**  
+Pós-graduando em **Engenharia de software** pela **PUC Minas**
 
 ---
 
