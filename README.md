@@ -24,7 +24,7 @@ Pós-graduando em **Engenharia de software** pela **PUC Minas**
 ---
 
 ## Development Stack
-🔹 **Backend:** Spring Boot |
+🔹 **Backend:** Spring Boot 
 🔹 **Frontend:** React | Angular  
 🔹 **Databases:** PostgreSQL | MongoDB  
 🔹 **Arquitetura:** REST APIs | Microservices | Clean Architecture  
